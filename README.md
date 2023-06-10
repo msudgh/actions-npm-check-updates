@@ -1,4 +1,3 @@
-# actions-npm-check-updates
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/msudgh/actions-npm-check-updates?style=social)](
   https://github.com/msudgh/actions-npm-check-updates/releases
 )
